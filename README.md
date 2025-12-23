@@ -1,6 +1,6 @@
   ![MasterHead](https://media.istockphoto.com/id/1390650720/tr/foto%C4%9Fraf/digital-network-connection-abstract-connection-of-dots-and-lines-technology-background.jpg?s=612x612&w=0&k=20&c=iLdSY9oHji1fj__NGXMEn-MHa7bmWl9G0Zpui8pDzHs=)
 
-<h1 align="center">Hi 👋, I'm Arda Temel</h1>
+<h1 align="center">Hi 👋, I'm Arda</h1>
 <h3 align="center">Helpdesk and IT Intern</h3>
 
 - 📫 How to reach me **aardatml@gmail.com**
