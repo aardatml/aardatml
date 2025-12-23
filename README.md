@@ -16,4 +16,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aardatml&show_icons=true&locale=en" alt="aardatml" /></p>
 
 
-![snake gif](https://github.com/aardatml/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/aardatml/aardatml/blob/output/github-contribution-grid-snake.gif)
