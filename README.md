@@ -1,4 +1,4 @@
- ![MasterHead](https://media.istockphoto.com/id/1390650720/tr/foto%C4%9Fraf/digital-network-connection-abstract-connection-of-dots-and-lines-technology-background.jpg?s=612x612&w=0&k=20&c=iLdSY9oHji1fj__NGXMEn-MHa7bmWl9G0Zpui8pDzHs=)
+  ![MasterHead](https://media.istockphoto.com/id/1390650720/tr/foto%C4%9Fraf/digital-network-connection-abstract-connection-of-dots-and-lines-technology-background.jpg?s=612x612&w=0&k=20&c=iLdSY9oHji1fj__NGXMEn-MHa7bmWl9G0Zpui8pDzHs=)
 
 <h1 align="center">Hi 👋, I'm Arda Temel</h1>
 <h3 align="center">Helpdesk and IT Intern</h3>
@@ -16,4 +16,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aardatml&show_icons=true&locale=en" alt="aardatml" /></p>
 
 
-![snake gif](https://github.com/aardatml/aardatml/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aardatml/aardatml/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aardatml/aardatml/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aardatml/aardatml/output/github-contribution-grid-snake.svg">
+</picture>
